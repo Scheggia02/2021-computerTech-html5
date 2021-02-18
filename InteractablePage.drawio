@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T10:23:55.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="26HQL1yqJ9offWyErPjA" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T10:25:15.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Osu0PB3B7k5wlaIEWBOC" version="14.4.2" type="github">
   <diagram id="jMEoYyO-90tfZf-PRsZD" name="Page-1">
     <mxGraphModel dx="1182" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="Djo0hb51fzd1qeQnEzwh-28" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#9C9C9C;gradientColor=#ffffff;" vertex="1" parent="Djo0hb51fzd1qeQnEzwh-10">
           <mxGeometry x="26" y="120" width="84" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Djo0hb51fzd1qeQnEzwh-30" value="&lt;font color=&quot;#000000&quot;&gt;Move here the Lama to make it move randomly&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Djo0hb51fzd1qeQnEzwh-10">
-          <mxGeometry x="28" y="130" width="80" height="70" as="geometry" />
+        <mxCell id="Djo0hb51fzd1qeQnEzwh-30" value="&lt;font color=&quot;#000000&quot;&gt;Move here the Lama to randomly teleport it&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Djo0hb51fzd1qeQnEzwh-10">
+          <mxGeometry x="28" y="125" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
