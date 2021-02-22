@@ -1,0 +1,37 @@
+#LamaImage{
+
+  position: absolute;
+  right: 50%;
+  top: 50%;
+  width: 10%;
+}
+
+#moveUp{
+  position: absolute;
+  right: 70%;
+  top: 90%;
+}
+ 
+#moveDown{
+  position: absolute;
+  right: 57%;
+  top: 90%;
+}
+
+#moveLeft{
+  position: absolute;
+  right: 45%;
+  top: 90%;
+}
+
+#moveRight{
+  position: absolute;
+  right: 32%;
+  top: 90%;
+}
+
+#BringHere{
+  width: 20%;
+  
+
+}
