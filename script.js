@@ -1,12 +1,7 @@
+let teleport ={
 
-//let teleport = function(){
- // if()
-
-
-
-//}
-
-
+  
+}
 
 let lamaimg = {
   topValue: 50,
