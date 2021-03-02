@@ -1,11 +1,10 @@
-let teleport ={
-
-  
-}
-
 let lamaimg = {
   topValue: 50,
   rightValue: 50,
+
+  teleport: function () {
+
+  }, 
 
   moveUp: function () {
     lamaimg.topValue -= 5;
