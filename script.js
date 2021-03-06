@@ -5,7 +5,7 @@ let lamaimg = {
   width: 75,
   height: 50,
 
-  teleportToRandomLoc: function(){
+  teleportToRandomLoc: function () {
 
     lamaimg.left = Math.floor(Math.random() * screen.width - lamaimg.left);
     lamaimg.top = Math.floor(Math.random() * screen.height - lamaimg.top);
@@ -76,7 +76,7 @@ function onTimerTick() {
 
   if (doRectsCollide(lamaimg, collision)) {
     lamaimg.teleportToRandomLoc();
-    console.log("errore");
+    console.log("Il Lama è scappato!");
   }
 
 
