@@ -85,7 +85,7 @@ function onTimerTick() {
 
 
 let init = function () {
-  setInterval(onTimerTick, 33); // 33 millisecondi
+  setInterval(onTimerTick, 33); // 33 millisecondi = 30 frame al secondo
   lamaimg.setupProperties();
   collision.setupProperties();
   $("#moveUp").on("click", lamaimg.moveUp);
